@@ -11,7 +11,7 @@ Aun sigo saber como modificar los estilos de las cards. Esto limito el uso de co
 5) Seccion reseñas, la idea original era incorporar un carrousel que se mueva automaticamente mostrando las reseñas de los clientes. Despues de muchos quebraderos de cabeza
 sin lograr el resultado decidi por solo mostrar las cards. Decidi incluir una reseña "real" en vez de usar lorem para una mejor visualizacion de la card.
 6) Botones e iconos en footer hardcodeados. No tienen funcion pero me parecia pertinentes agregarlos para el contenido que se estaba desplegando. 
-pagina ioconics descubierta en busqueda luego de buscar iconos faciles de insertar en el proyecto.
+pagina ioconics descubierta luego de buscar iconos faciles de insertar en el proyecto.
 7) Css. Quizas lo mas dificil de entender y aplicar (para mi que no tengo nada de creatividad) fue lo que mas tiempo me llevo de todo el proyecto (y lo que mas tuve que investigar por mi cuenta)
 cambiando y cambiando el codigo todo el tiempo a medida que iba agregando o modificando cosas.
 
