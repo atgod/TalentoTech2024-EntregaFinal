@@ -23,4 +23,10 @@ cambiando y cambiando el codigo todo el tiempo a medida que iba agregando o modi
 * Ultimos comentarios: Como iniciante en este mundo quiero agradecer por brindar este exelente curso. Es muy llevadero y realizando periodicamente los 
 ejercicios se entiende bastante bien la mecanica basica de como funciona todo. Si bien me costo bastante este primer desarrollo (lo vengo haciendo y rehaciendo desde las priemras clases), sigo con muchas ganas de aprender el resto.
 Aunque entiendo que ahora viene la parte mas dificil espero poder cumplir con la entrega final :D. 
-Muchas gracias por su trabajo. Saludos!
+
+ *2 update: Respecto de Js reconozco que hubo momentos que se agregaba mucha informacion de golpe y era dificl digerir. Sin embargo al empezar a entender la logica de como funcionaba fue mucho mas llevadero para poder realizar las cosas que necesitaba. Todavia tengo mucho por aprender sin embargo me sirvio mucho el curso como un primer acercamiento a este mundo. 
+
+ Quiero agradecer a Paz Aliaga y a Nicolas Fernandez por la buena predisposicion siempre al dictar el curso, resolver dudas y ayudar con el proyecto. 2 personas de calidad humana impresionante!. 
+ Muchas gracias por todo espero poder anotarme para el siguiente modulo que sigo con muchas ganas de aprender mas cosas :D
+
+ Saludos! Lionel.

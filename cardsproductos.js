@@ -3,7 +3,7 @@ const carritoProducts = [];
 
 const productContainer = document.getElementById('product-container');
 const carritoButton = document.querySelector('.carrito');
-const modalBody = document.getElementById('modal-body-list'); // Lista en el modal
+const modalBody = document.getElementById('modal-body-list');
 const carritoModal = new bootstrap.Modal(document.getElementById('carritoModal'));
 
 fetch('https://dummyjson.com/products')
