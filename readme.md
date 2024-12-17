@@ -15,6 +15,11 @@ pagina ioconics descubierta en busqueda luego de buscar iconos faciles de insert
 7) Css. Quizas lo mas dificil de entender y aplicar (para mi que no tengo nada de creatividad) fue lo que mas tiempo me llevo de todo el proyecto (y lo que mas tuve que investigar por mi cuenta)
 cambiando y cambiando el codigo todo el tiempo a medida que iba agregando o modificando cosas.
 
+8) Eliminadas cards estaticas para generar cards dinamicas de bootstrap consumiendo api de dummyjson.
+9) Modificado codigo html para agregar un modal al carrito en el que se pueda trabajar con funciones de js para agregar / eliminar productos (esto me llevo mucho tiempo y quebraderos de cabeza)
+10) reestructuracion de codigo js para reflejar variables constantes declaradas. 
+11) Creadas funciones del boton carrito, agregar / eliminar productos y sweet alert para boton "comprar" en cards.
+
 * Ultimos comentarios: Como iniciante en este mundo quiero agradecer por brindar este exelente curso. Es muy llevadero y realizando periodicamente los 
 ejercicios se entiende bastante bien la mecanica basica de como funciona todo. Si bien me costo bastante este primer desarrollo (lo vengo haciendo y rehaciendo desde las priemras clases), sigo con muchas ganas de aprender el resto.
 Aunque entiendo que ahora viene la parte mas dificil espero poder cumplir con la entrega final :D. 
